@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\project1\project1\tonghop.h(91): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\project1\project1\tonghop.h(587): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\Project1\Debug\Project1.exe

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Truong_Buoi1", "Truong_Buoi1\Truong_Buoi1.vcxproj", "{D89C0920-308B-491A-8026-85C5A9B1D436}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Truong_Buoi1_PTBH", "Truong_Buoi1_PTBH\Truong_Buoi1_PTBH.vcxproj", "{06C8A0E6-5E1C-4A00-B96A-C9CA899C4D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89C0920-308B-491A-8026-85C5A9B1D436}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D89C0920-308B-491A-8026-85C5A9B1D436}.Debug|Win32.Build.0 = Debug|Win32
+		{D89C0920-308B-491A-8026-85C5A9B1D436}.Release|Win32.ActiveCfg = Release|Win32
+		{D89C0920-308B-491A-8026-85C5A9B1D436}.Release|Win32.Build.0 = Release|Win32
+		{06C8A0E6-5E1C-4A00-B96A-C9CA899C4D29}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06C8A0E6-5E1C-4A00-B96A-C9CA899C4D29}.Debug|Win32.Build.0 = Debug|Win32
+		{06C8A0E6-5E1C-4A00-B96A-C9CA899C4D29}.Release|Win32.ActiveCfg = Release|Win32
+		{06C8A0E6-5E1C-4A00-B96A-C9CA899C4D29}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿Build started 1/22/2019 5:34:18 PM.
+     1>Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\Truong_Buoi1\Truong_Buoi1\Truong_Buoi1.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\Truong_Buoi1\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Truong_Buoi1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt sourcePTBN.cpp
+         sourcePTBN.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\Truong_Buoi1\Debug\Truong_Buoi1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Truong_Buoi1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\Truong_Buoi1\Debug\Truong_Buoi1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\Truong_Buoi1\Debug\Truong_Buoi1.lib" /MACHINE:X86 Debug\sourcePTBN.obj
+         Truong_Buoi1.vcxproj -> E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\Truong_Buoi1\Debug\Truong_Buoi1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\Truong_Buoi1\Debug\Truong_Buoi1.exe;#1" /manifest Debug\Truong_Buoi1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Truong_Buoi1.unsuccessfulbuild".
+         Touching "Debug\Truong_Buoi1.lastbuildstate".
+     1>Done Building Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\Truong_Buoi1\Truong_Buoi1\Truong_Buoi1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.63

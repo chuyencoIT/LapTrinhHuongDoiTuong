@@ -1,0 +1,29 @@
+﻿Build started 1/13/2019 7:50:21 PM.
+     1>Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Bai_Tap_Web_tailieu\Bai5\Bai5.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Bai5.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Quan_Ly.cpp
+         Quan_Ly.cpp
+     1>e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\hdt c++ youtube\bai_tap_web_tailieu\bai5\quan_ly.cpp(51): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\hdt c++ youtube\bai_tap_web_tailieu\bai5\quan_ly.cpp(72): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\hdt c++ youtube\bai_tap_web_tailieu\bai5\quan_ly.cpp(83): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\hdt c++ youtube\bai_tap_web_tailieu\bai5\quan_ly.cpp(97): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Bai_Tap_Web_tailieu\Debug\Bai5.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Bai5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Bai_Tap_Web_tailieu\Debug\Bai5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Bai_Tap_Web_tailieu\Debug\Bai5.lib" /MACHINE:X86 Debug\Khach_Hang.obj
+         Debug\KH_NN.obj
+         Debug\KH_VN.obj
+         Debug\Quan_Ly.obj
+         Debug\source.obj
+         LINK : E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Bai_Tap_Web_tailieu\Debug\Bai5.exe not found or not built by the last incremental link; performing full link
+         Bai5.vcxproj -> E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Bai_Tap_Web_tailieu\Debug\Bai5.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Bai_Tap_Web_tailieu\Debug\Bai5.exe;#1" /manifest Debug\Bai5.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Bai5.unsuccessfulbuild".
+         Touching "Debug\Bai5.lastbuildstate".
+     1>Done Building Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Bai_Tap_Web_tailieu\Bai5\Bai5.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.60

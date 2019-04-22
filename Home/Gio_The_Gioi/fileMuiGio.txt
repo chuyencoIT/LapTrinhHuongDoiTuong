@@ -1,0 +1,33 @@
+VietNam
+Hanoi
+7.0
+U.K
+England - London
+0.0
+U.S.A
+Washington D.C
+-5.0
+Thailand
+Bangkok
+7.0
+Taiwan
+Taipei
+8.0
+Qatar
+Ad Dawhah
+3.0
+Philippines
+Manilla
+8.0
+Norway
+Oslo
+1.0
+Myanmar
+Rangoon
+6.30
+Mexico
+Mexico City
+-6.0
+Malaysia
+Kuala Lumpur
+8.0

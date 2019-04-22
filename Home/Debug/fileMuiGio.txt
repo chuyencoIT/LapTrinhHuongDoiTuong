@@ -1,0 +1,9 @@
+VietNam
+Hanoi
+7.0
+U.K
+England - London
+0.0
+U.S.A
+Washington D.C
+-5.0

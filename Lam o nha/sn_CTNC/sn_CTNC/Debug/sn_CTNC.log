@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\sn_ctnc\sn_ctnc\tonghop.h(91): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\sn_ctnc\sn_ctnc\tonghop.h(587): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\sn_ctnc\sn_ctnc\tonghop.h(621): warning C4244: 'return' : conversion from '__int64' to 'long', possible loss of data
+  sn_CTNC.vcxproj -> E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\sn_CTNC\Debug\sn_CTNC.exe

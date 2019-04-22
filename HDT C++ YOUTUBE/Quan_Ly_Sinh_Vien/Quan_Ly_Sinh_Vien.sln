@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quan_Ly_Sinh_Vien", "Quan_Ly_Sinh_Vien\Quan_Ly_Sinh_Vien.vcxproj", "{BC5E440F-E426-477D-B6CF-6850E4915D4C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FIGHT", "FIGHT\FIGHT.vcxproj", "{D58279F7-7DD6-4016-8787-D81E2585AAD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5E440F-E426-477D-B6CF-6850E4915D4C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC5E440F-E426-477D-B6CF-6850E4915D4C}.Debug|Win32.Build.0 = Debug|Win32
+		{BC5E440F-E426-477D-B6CF-6850E4915D4C}.Release|Win32.ActiveCfg = Release|Win32
+		{BC5E440F-E426-477D-B6CF-6850E4915D4C}.Release|Win32.Build.0 = Release|Win32
+		{D58279F7-7DD6-4016-8787-D81E2585AAD2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D58279F7-7DD6-4016-8787-D81E2585AAD2}.Debug|Win32.Build.0 = Debug|Win32
+		{D58279F7-7DD6-4016-8787-D81E2585AAD2}.Release|Win32.ActiveCfg = Release|Win32
+		{D58279F7-7DD6-4016-8787-D81E2585AAD2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

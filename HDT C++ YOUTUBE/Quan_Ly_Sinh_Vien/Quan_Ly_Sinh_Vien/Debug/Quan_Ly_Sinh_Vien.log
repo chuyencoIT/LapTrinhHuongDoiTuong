@@ -1,0 +1,21 @@
+﻿Build started 1/12/2019 10:59:30 AM.
+     1>Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Quan_Ly_Sinh_Vien\Quan_Ly_Sinh_Vien\Quan_Ly_Sinh_Vien.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Quan_Ly_Sinh_Vien.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt QLSV.cpp
+         QLSV.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Quan_Ly_Sinh_Vien\Debug\Quan_Ly_Sinh_Vien.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Quan_Ly_Sinh_Vien.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Quan_Ly_Sinh_Vien\Debug\Quan_Ly_Sinh_Vien.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Quan_Ly_Sinh_Vien\Debug\Quan_Ly_Sinh_Vien.lib" /MACHINE:X86 Debug\QLSV.obj
+         LINK : E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Quan_Ly_Sinh_Vien\Debug\Quan_Ly_Sinh_Vien.exe not found or not built by the last incremental link; performing full link
+         Quan_Ly_Sinh_Vien.vcxproj -> E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Quan_Ly_Sinh_Vien\Debug\Quan_Ly_Sinh_Vien.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Quan_Ly_Sinh_Vien\Debug\Quan_Ly_Sinh_Vien.exe;#1" /manifest Debug\Quan_Ly_Sinh_Vien.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Quan_Ly_Sinh_Vien.unsuccessfulbuild".
+         Touching "Debug\Quan_Ly_Sinh_Vien.lastbuildstate".
+     1>Done Building Project "E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\HDT C++ YOUTUBE\Quan_Ly_Sinh_Vien\Quan_Ly_Sinh_Vien\Quan_Ly_Sinh_Vien.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.60
