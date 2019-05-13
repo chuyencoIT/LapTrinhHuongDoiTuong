@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\laptrinhhuongdoituong\truong\buoi_13_5\buoi_13_5\baitap\sinhviencq.h(21): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\laptrinhhuongdoituong\truong\buoi_13_5\buoi_13_5\baitap\sinhviencq.h(22): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+e:\goc hoc tap\cong nghe thong tin\hkiv\lap trinh huong doi tuong\laptrinhhuongdoituong\truong\buoi_13_5\buoi_13_5\baitap\sinhvienkcq.h(20): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+  baitap.vcxproj -> E:\GOC HOC TAP\Cong Nghe Thong Tin\HKIV\Lap Trinh Huong Doi Tuong\LapTrinhHuongDoiTuong\truong\Buoi_13_5\Buoi_13_5\Debug\baitap.exe
