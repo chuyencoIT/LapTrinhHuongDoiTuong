@@ -5,14 +5,14 @@
 
 using namespace std;
 
-class SINHVIENCQ : protected SINHVIEN
+class SINHVIENCQ : public SINHVIEN
 {
 private:
 	int soTC;
 public:
 	float tienHocPhi();
-	void nhapTTSVCQ();
-	void xuatTTSVCQ();
+	void nhapTTSV();
+	void xuatTTSV();
 };
 
 float SINHVIENCQ::tienHocPhi()
@@ -22,9 +22,9 @@ float SINHVIENCQ::tienHocPhi()
 	else return (soTC * 70000);
 }
 
-void SINHVIENCQ::nhapTTSVCQ()
+void SINHVIENCQ::nhapTTSV()
 {
-	nhapTTSV();
+	SINHVIEN::nhapTTSV();
 	do
 	{
 		cout << "Nhap so tin chi: ";
@@ -33,8 +33,8 @@ void SINHVIENCQ::nhapTTSVCQ()
 	} while (soTC < 0);
 }
 
-void SINHVIENCQ::xuatTTSVCQ()
+void SINHVIENCQ::xuatTTSV()
 {
-	xuatTTSV();
+	SINHVIEN::xuatTTSV();
 	cout << "\tSo TC: " << soTC << "\t     Tien Hoc Phi: " << tienHocPhi();
 }

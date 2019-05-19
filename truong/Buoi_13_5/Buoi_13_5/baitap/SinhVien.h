@@ -15,8 +15,8 @@ public:
 	virtual float tienHocPhi() = 0;
 	SINHVIEN(string _maSV, string _hoTen, int _ngay, int _thang, int _nam);
 	SINHVIEN(){};
-	void nhapTTSV();
-	void xuatTTSV();
+	virtual void nhapTTSV();
+	virtual void xuatTTSV();
 };
 
 SINHVIEN::SINHVIEN(string _maSV, string _hoTen, int _ngay, int _thang, int _nam)
