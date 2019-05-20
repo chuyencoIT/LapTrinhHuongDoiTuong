@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 #include"NhanVien.h"
+#include "iomanip"
 using namespace std;
 
 class NhanVienVP : public NhanVien
@@ -25,7 +26,7 @@ void NhanVienVP::nhapThongTin()
 void NhanVienVP::xuatThongTin()
 {
 	NhanVien::xuatThongTin();
-	cout << "\n\t\tPhu cap: " << phuCapVP << "\tLuong CB: " << luongCB << "\tLuong: " << tinhLuong();
+	cout << "\n\t\tPhu cap: " << phuCapVP << "\tLuong CB: " << luongCB << "\tLuong: " << setprecision(7) << tinhLuong();
 	cout << "\n----------------------------------------------------------\n";
 }
 
